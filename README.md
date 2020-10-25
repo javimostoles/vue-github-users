@@ -1,21 +1,24 @@
 # vue-github-users
 
-A simple app for test Github API made with love 💚 and Vue 🖖 
+![Screenshot](https://github.com/javimostoles/vue-github-users/blob/main/src/assets/login.png?raw=true)
+
+A simple app for test Github API made with love 💚 and Vue 🖖
 
 I have created this app for educational purposes and to practice my Vue skills also participate in [#Hacktoberfest](https://hacktoberfest.digitalocean.com/) to win a cool t-shirt.
 
 ## Status
-🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧  
 
-🔧 🔧 🔧  Work in progress  🔧 🔧 🔧 
+🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧
 
-🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧  
+🔧 🔧 🔧 Work in progress 🔧 🔧 🔧
 
-## How to use it? 
+🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧 🔧
+
+## How to use it?
 
 ### ⚡️ Live
 
- ### ✨ Quick start
+### ✨ Quick start
 
 1.  **Clone this repository.**
 
@@ -35,8 +38,7 @@ I have created this app for educational purposes and to practice my Vue skills a
 
 3.  **Running!**
 
-    Your site is now running at `http://localhost:8080` 🚀 
-
+    Your site is now running at `http://localhost:8080` 🚀
 
 ## Compiles and hot-reloads for development
 
@@ -45,11 +47,13 @@ npm run serve
 ```
 
 ## Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 ## Lints and fixes files
+
 ```
 npm run lint
 ```
