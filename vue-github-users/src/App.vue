@@ -45,9 +45,10 @@ html {
   a {
     font-weight: bold;
     color: #2c3e50;
-
+  
     &.router-link-exact-active {
-      color: #42b983;
+      color: #497BE8;
+      text-decoration:none;
     }
   }
 }
